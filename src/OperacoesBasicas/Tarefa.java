@@ -14,7 +14,7 @@ public class Tarefa {
     @Override
     public String toString() {
         return "Tarefa{" +
-                "descricao='" + descricao + '\'' +
+                "descricao:'" + descricao + '\'' +
                 '}';
     }
 }
